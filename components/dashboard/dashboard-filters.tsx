@@ -5,7 +5,7 @@ export function DashboardFilters() {
     <div className="flex flex-wrap items-center gap-3 rounded-xl border border-slate-800 bg-slate-950 p-4">
       <button className="flex items-center gap-2 rounded-lg border border-slate-700 bg-slate-900 px-4 py-2 text-sm text-white">
         <Factory size={15} />
-        Site: Oyu Tolgoi
+        Site: Khandgait
       </button>
 
       <button className="flex items-center gap-2 rounded-lg border border-slate-700 bg-slate-900 px-4 py-2 text-sm text-white">
@@ -15,7 +15,7 @@ export function DashboardFilters() {
 
       <button className="flex items-center gap-2 rounded-lg border border-slate-700 bg-slate-900 px-4 py-2 text-sm text-white">
         <Calendar size={15} />
-        May 22, 2025
+        June 18, 2026
       </button>
     </div>
   );
