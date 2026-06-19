@@ -42,17 +42,16 @@ export default function LoginPage() {
         <section className="hidden min-h-[640px] flex-col justify-between bg-[radial-gradient(circle_at_30%_20%,#00d68f33,transparent_30%),linear-gradient(135deg,#07101f,#020617)] p-10 lg:flex">
           <div>
             <div className="text-2xl font-bold text-emerald-400">SmartMine</div>
-            <div className="text-sm text-slate-400">AI Operations Center</div>
+            <div className="text-sm text-slate-400">Хиймэл оюун ухаант үйл ажиллагааны төв</div>
           </div>
 
           <div>
             <h1 className="max-w-md text-4xl font-bold leading-tight">
-              Intelligent Operations. Smarter Decisions.
+              Ухаалаг үйл ажиллагаа. Илүү ухаалаг шийдвэрүүд.
             </h1>
 
             <p className="mt-4 max-w-md text-sm leading-6 text-slate-400">
-              Real-time AI-powered insights for safety, productivity,
-              maintenance, fuel efficiency and operational performance.
+              Хөдөлмөрийн аюулгүй байдал, бүтээмж, засвар үйлчилгээ, түлшний хэмнэлт болон үйл ажиллагааны гүйцэтгэлд зориулсан хиймэл оюун ухаанд суурилсан бодит цагийн мэдээлэл, дүгнэлт.
             </p>
           </div>
 
@@ -69,7 +68,7 @@ export default function LoginPage() {
             <div className="mb-8">
               <h2 className="text-3xl font-bold">Sign in to SmartMine</h2>
               <p className="mt-2 text-sm text-slate-400">
-                Access your AI Operations Center
+                Хиймэл оюун ухаант үйл ажиллагааны төвдөө нэвтрэх
               </p>
             </div>
 
@@ -114,7 +113,7 @@ export default function LoginPage() {
             </form>
 
             <p className="mt-6 text-center text-xs text-slate-500">
-              Secure · Reliable · Trusted
+              Аюулгүй · Найдвартай · Итгэлтэй
             </p>
           </div>
         </section>
